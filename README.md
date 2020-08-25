@@ -21,4 +21,5 @@ How do I run the program?
 What does the program look like? (visual)
 
 #### Lab Time
-   1. Start Time 3:40pm 
+   1. Start Time 3:40pm
+   1. End Time 
